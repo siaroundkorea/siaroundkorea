@@ -3,9 +3,10 @@
 
 <strong> Welcome to Our Team Repository page! </strong>
 
-<img src="https://drive.google.com/file/d/1e0e8QUKgU20ICiRxs-pagdmxzMk85urO/view?usp=sharing" width="230">
+[4](https://user-images.githubusercontent.com/81952080/172753826-2770d722-4056-4556-b5e2-15a7449ced1e.png)
 
-  Thing We code with
+  Thing We code with!
+
    ```javascript
    function SI_AroundKOREA() {
       var prononuns : "he" | "him"
@@ -27,6 +28,16 @@
 }
 ```
 
+- 📫 How to reach me:  si@aroundkorea.kr(Email) , 070-4187-0920(Tel) , 
+- <a href="https://www.instagram.com/rainbow._.toon/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @rainbow._.toon</a>
+<a href="https://www.instagram.com/aroundkorea_/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @aroundkorea_</a>
+
+
+
+
+- 🔭 We`re currently working on AROUNDKorea SI Team
+- 🌱 We`re currently learning Front-end Skills & Back-end Skills....
+- 🤔 We`re looking for help with Front-end Skills & Back-end Skills....
 
 
 📈 Our github stats
