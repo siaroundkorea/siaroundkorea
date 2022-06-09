@@ -3,7 +3,7 @@
 
 <strong> Welcome to Our Team Repository page! </strong>
 
-[4](https://user-images.githubusercontent.com/81952080/172753826-2770d722-4056-4556-b5e2-15a7449ced1e.png)
+https://user-images.githubusercontent.com/81952080/172753826-2770d722-4056-4556-b5e2-15a7449ced1e.png
 
   Thing We code with!
 
