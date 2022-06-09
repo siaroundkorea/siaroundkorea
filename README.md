@@ -17,9 +17,12 @@
       }: 
       
       return (
-      <div>
-        
-      </div>
+       "  #Pleasure 
+          #Curiosity 
+          #People 
+          #Newness 
+          #Neat 
+          #Beauty "
       )
 }
 ```
