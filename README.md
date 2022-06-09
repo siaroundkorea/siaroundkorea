@@ -2,12 +2,10 @@
 ## AroundKorea SI Team Repository
 
 <strong> Welcome to Our Team Repository page! </strong>
-Thank you! 
 
-UserName - HyoGeun
-UserName - Iksu
+<img src="https://drive.google.com/file/d/1e0e8QUKgU20ICiRxs-pagdmxzMk85urO/view?usp=sharing" width="230">
 
-  Thing I code with
+  Thing We code with
    ```javascript
    function SI_AroundKOREA() {
       var prononuns : "he" | "him"
@@ -20,7 +18,7 @@ UserName - Iksu
       
       return (
       <div>
-        <img src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://drive.google.com/file/d/1e0e8QUKgU20ICiRxs-pagdmxzMk85urO/view?usp=sharing)" width="230">
+        
       </div>
       )
 }
