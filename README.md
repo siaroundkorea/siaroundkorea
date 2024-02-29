@@ -8,33 +8,58 @@
   Thing We code with!
 
    ```javascript
+
+   interface Arounder{
+      name : string;
+      position : string;
+      role : string;
+    }
+
    function SI_AroundKOREA() {
-      var prononuns : "he" | "him"
-      var member : Nroot(Front) | IxieL(Back) 
-      var codeSkill : [Javascript, Typescript, HTML , CSS , Java , Python, graphQL, AWS]
-      var tool : [React, Node, Styled-Components, Docker]
-      cosnt challenge = () => {
-          return "We imagine and make what we like online."
-      }: 
+      var members : Arounder[] =
+            [
+              {
+                 name : "Nroot";
+                position : Team Leader;
+                role : "Front,Publicing,UI/UX Dev";
+              },
+              {
+                 name : "IxieL";
+                position : Deputy team leader;
+                role : "Back,DB,Architect";
+              },
+              {
+                 name : "UIPixie";
+                position : Team members;
+                role : "UI/UX Designer";
+              },
+            ]
+
+      var codeSkill : [Javascript, Typescript, HTML , CSS , Java , Python, graphQL]
+
+      var tool : [React, Node, AWS]
+
+      const calcTeamAge = (thisYear:number) => {
+            var TeamBirthYear : number = 2021
+             return thisYear - TeamBirthYear;
+      };
+
+      const AROUND = () => {
+        return "  #Amusement #Curiosity #Human #Revenue "
+      };
+
+      const doWork = () => {
+        return "  #Newness #Neatness #Beautiful " 
+      };
+
+      const our_Slogan = () => {
+          return "Turning Imagination into Online Innovation"
+      }; 
       
-      return (
-       "  #Pleasure 
-          #Curiosity 
-          #People 
-          #Newness 
-          #Neat 
-          #Beauty "
-      )
 }
 ```
 
 - 📫 How to reach me:  si@aroundkorea.kr(Email) , 070-4187-0920(Tel) , 
-- <a href="https://www.instagram.com/rainbow._.toon/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @rainbow._.toon</a>
-<a href="https://www.instagram.com/aroundkorea_/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @aroundkorea_</a>
-
-
-
-
 - 🔭 We`re currently working on AROUNDKorea SI Team
 - 🌱 We`re currently learning Front-end Skills & Back-end Skills....
 - 🤔 We`re looking for help with Front-end Skills & Back-end Skills....
@@ -43,7 +68,6 @@
 📈 Our github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siaroundkorea&show_icons=true&theme=gotham" alt="siaroundkorea" />
-
 
 <p>
  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
