@@ -67,7 +67,7 @@
 
 📈 Our github stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siaroundkorea&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siaroundkorea&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siaroundkorea&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siaroundkorea&layout=compact)
 
 
 
