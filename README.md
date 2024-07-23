@@ -67,11 +67,9 @@
 
 📈 Our github stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siaroundkorea&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siaroundkorea&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siaroundkorea&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siaroundkorea&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siaroundkorea)](https://github.com/siaroundkorea/github-readme-stats)
 
 <p>
  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
