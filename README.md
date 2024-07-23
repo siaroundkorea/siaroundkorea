@@ -67,12 +67,12 @@
 
 📈 Our github stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siaroundkorea)](https://github.com/siaroundkorea/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siaroundkorea&show_icons=true&theme=dark)](https://github.com/siaroundkorea/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siaroundkorea)](https://github.com/siaroundkorea/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siaroundkorea)](https://github.com/siaroundkorea/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siaroundkorea&repo=github-readme-stats)](https://github.com/siaroundkorea/github-readme-stats)
 
 
 
