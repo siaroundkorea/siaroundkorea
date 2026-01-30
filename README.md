@@ -49,10 +49,6 @@
 }
 ```
 
-- 📫 How to reach me:  si@aroundkorea.kr(Email) , 070-4187-0920(Tel) , 
-- 🔭 We`re currently working on AROUNDKorea SI Team
-- 🌱 We`re currently learning Front-end Skills & Back-end Skills....
-- 🤔 We`re looking for help with Front-end Skills & Back-end Skills....
 
 
 📈 Our github stats
