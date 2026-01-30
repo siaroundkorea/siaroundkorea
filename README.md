@@ -1,5 +1,5 @@
 ### :sunglasses: Hi there, Nice to see you
-## AroundKorea SI Team Repository
+## AROUND Korea Repository
 
 <strong> Welcome to Our Team Repository page! </strong>
 
