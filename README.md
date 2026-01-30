@@ -3,7 +3,7 @@
 
 <strong> Welcome to Our Team Repository page! </strong>
 
-<img src="https://user-images.githubusercontent.com/81952080/172753826-2770d722-4056-4556-b5e2-15a7449ced1e.png" alt="SITeam">
+<img src="" alt="SITeam">
 
   Thing We code with!
 
@@ -19,19 +19,9 @@
       var members : Arounder[] =
             [
               {
-                 name : "Nroot";
+                 name : "Kang's";
                 position : Team Leader;
                 role : "Front,Publicing,UI/UX Dev";
-              },
-              {
-                 name : "IxieL";
-                position : Deputy team leader;
-                role : "Back,DB,Architect";
-              },
-              {
-                 name : "UIPixie";
-                position : Team members;
-                role : "UI/UX Designer";
               },
             ]
 
